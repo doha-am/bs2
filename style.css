@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+}
+
+.navbar {
+    background-color: #301504;
+}
+
+.navbar-brand {
+    color: #f9a51b;
+    font-style: italic;
+}
+
+.navbar-brand:hover {
+    color: #f9a51b;
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.nav-link:hover {
+    color: #f9a51b;
+}
+
+.sec1 {
+    background-image: url(./images/pexels-ayşenaz-bilgin-17930312.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 45rem;
+    margin-bottom: 5rem;
+}
+
+.main {
+    padding-top: 17.5rem;
+}
+
+.masthead-subheading {
+    font-style: italic;
+    color: white;
+}
+
+.masthead-heading {
+    font-weight: 900;
+    margin-top: 1rem;
+    color: white;
+    font-size: 65px;
+}
+
+.main a {
+    margin-top: 2rem;
+    background-color: #301504;
+    color: white;
+}
+
+.main a:hover {
+    background-color: #301504;
+
+}
+
+.p1 {
+    font-style: italic;
+    font-weight: 15px;
+}
+
+.fa-circle {
+    color: #a93007;
+}
+
+.sec3 {
+
+    background-color: rgba(190, 119, 39, 254);
+    padding-top: 7rem;
+    margin-top: 6rem;
+    padding-bottom: 5rem;
+}
+
+.sec3 p {
+    font-style: italic;
+}
+
+.cards {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 4rem;
+}
+
+.imges {
+    opacity: 1;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.imges:hover {
+    opacity: .7;
+}
+
+.photo {
+    margin-top: 5rem;
+}
+
+.pic1 {
+    height: 30rem;
+    width: 30rem;
+    margin-left: 5rem;
+    border-radius: 10rem;
+}
+
+.pic2 {
+    height: 30rem;
+    width: 30rem;
+    margin-left: 7rem;
+    border-radius: 10rem;
+}
+
+.divider {
+    width: 50rem;
+    height: 3px;
+    background-color: black;
+    margin-top: 3rem;
+    margin-left: 18rem;
+}
+
+.end {
+    background-color: #301504;
+    border-radius: 20rem;
+    width: 50rem;
+    margin-left: 18rem;
+    margin-top: 5rem;
+    padding: 2rem;
+    color: aliceblue;
+}
+
+.pic {
+    background: center;
+    width: 10rem;
+    border: 6px;
+    border-style: solid;
+    border-color: #301504;
+}
+
+.TE {
+    margin-left: 13rem;
+    margin-top: 5rem;
+}
+
+.TE a {
+    background-color: #301504;
+    color: aliceblue;
+}
+
+.sec5 {
+    background-color: rgba(190, 119, 39, 254);
+}
+
+.team-member p {
+    margin-left: 2rem;
+}
+
+.social img {
+    width: 10rem;
+}
+
+.sec7 {
+    background-image: url(./images/pexels-olga-lioncat-7245615.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 45rem;
+}
+
+.inputs {
+    margin-bottom: 5rem;
+}
